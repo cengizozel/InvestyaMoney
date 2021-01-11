@@ -6,3 +6,8 @@ a {
 div.a {
     line-height: 1.6;
   }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
