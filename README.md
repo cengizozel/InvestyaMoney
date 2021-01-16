@@ -1,3 +1,3 @@
 # InvestyaMoney
 
-This is a website where I add what I learn about investing and finance.
+As I read and learn more about investing and finance, this website is where I store what I learn.
